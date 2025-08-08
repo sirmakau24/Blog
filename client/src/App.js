@@ -14,6 +14,11 @@ function App() {
       <BlogContainer title="Styling Components in React">
         <p>You can style components using external CSS files, inline styles, or CSS-in-JS. External files keep styles organized and reusable.</p>
       </BlogContainer>
+
+      <BlogContainer title="Components are the building blocks of React.">
+        <p>Components encapsulate logic and UI. They can accept props to customize their behavior and appearance, making them flexible and powerful.</p>
+      </BlogContainer>
+
     </div>
   );
 }
