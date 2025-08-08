@@ -34,3 +34,21 @@ h2 {
 p {
   line-height: 1.6;
 }
+.blog-container {
+  background-color: #fff;
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 700px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.blog-container h2 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.blog-content {
+  line-height: 1.6;
+  color: #555;
+}
